@@ -31,7 +31,7 @@ I'm an enthusiastic developer who enjoys tackling complex challenges and buildin
 
 ## GitHub Stats 📈
 
-![MD Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabdullah-dev&show_icons=true&theme=radical)
+![MD Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?Md-Abdullah-321&show_icons=true&theme=radical)
 
 ## Let's Connect! 🤝
 
