@@ -31,7 +31,7 @@ I'm an enthusiastic developer who enjoys tackling complex challenges and buildin
 
 ## GitHub Stats 📈
 
-![MD Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?Md-Abdullah-321=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![MD Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?Md-Abdullah-321=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect! 🤝
 
