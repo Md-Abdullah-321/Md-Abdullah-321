@@ -35,6 +35,8 @@ I'm an enthusiastic developer who enjoys tackling complex challenges and buildin
 
 ## Let's Connect! 🤝
 
-Feel free to reach out to me via email or connect with me on GitHub. I'm always open to collaborations and exciting projects!
+Feel free to contact me via email or connect with me on GitHub. I'm always open to collaborations and exciting projects!
 
 Happy coding! 😃
+
+[![](https://visitcount.itsvg.in/api?id=abdullah&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
