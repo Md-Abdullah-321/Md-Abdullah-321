@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello there! 👋 I'm MD Abdullah, currently studying at Tangail Polytechnic Institute.
+Hello there! 👋 I'm MD Abdullah, currently studying at Tangail Polytechnic Institute.<br/>
 🔭 I’m currently working with the MERN stack. <br>🌱 I’m currently learning SQL & advanced Full Stack concepts.<br>
 
 
