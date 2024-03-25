@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-Hello there! 👋 I'm **MD Abdullah**, currently studying at Tangail Polytechnic Institute.<br/>
-🔭 I’m currently working with the MERN stack. <br>🌱 I’m currently learning SQL & advanced Full Stack concepts.<br>
+Hey! I'm **MD Abdullah**, a student at Tangail Polytechnic Institute. I specialize in the MERN stack—MongoDB, Express.js, React, and Node. js—building dynamic web apps. Exploring SQL and advanced Full-Stack concepts keeps me engaged. Passionate about learning and growth in web development! 🚀
+
 
 
 
