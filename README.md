@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+![Github Banner](https://github.com/Md-Abdullah-321/Md-Abdullah-321/assets/81377690/7891aed1-27f9-4848-9180-cc2b2da367ef)
 
 Hey! I'm **MD Abdullah**, a student at Tangail Polytechnic Institute. I specialize in the MERN stack—MongoDB, Express.js, React, and Node. js—building dynamic web apps. Exploring SQL and advanced Full-Stack concepts keeps me engaged. Passionate about learning and growth in web development! 🚀
 
