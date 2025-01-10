@@ -2,7 +2,7 @@
 ![image](https://github.com/Md-Abdullah-321/Md-Abdullah-321/assets/81377690/2787ab42-6a52-4055-b4db-5aed0dcedf38)
 
 
-Hey! I'm **MD Abdullah**, and I specialize in the MERN stack—MongoDB, Express.js, React.js, Next.js, and Node.js. Exploring PostgreSQL, React Native and advanced Full-Stack concepts keeps me engaged. Passionate about learning and growth in web and Flutter app development! 🚀
+Hey! I'm **MD Abdullah**, and I specialize in the MERN stack—MongoDB, Express.js, React.js, Next.js, and Node.js. Exploring PostgreSQL, React Native and advanced Full-Stack concepts keeps me engaged. Passionate about learning and growth in web and Flutter app development! 🚀 
 
 
 
