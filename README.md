@@ -2,10 +2,8 @@
 ![image](https://github.com/Md-Abdullah-321/Md-Abdullah-321/assets/81377690/2787ab42-6a52-4055-b4db-5aed0dcedf38)
 
 
-Hey! I'm **MD Abdullah**, and I specialize in the MERN stack—MongoDB, Express.js, React.js, Next.js, and Node.js. Exploring PostgreSQL, React Native and advanced Full-Stack concepts keeps me engaged. Passionate about learning and growth in web and Flutter app development! 🚀 
-
-
-
+Hi, I'm Md Abdullah — a Full Stack Developer with experience in MongoDB, Express.js, React.js, Node.js, Nest.js, Next.js, Laravel, and PostgreSQL. I focus on building clean, scalable, and user-friendly web applications. I'm always learning and working to improve my skills to deliver better solutions.
+ 🚀 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Md-Abdullah/100086184884085/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-1907b8173/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=white)](https://leetcode.com/u/Md-Abdullah-321/)
