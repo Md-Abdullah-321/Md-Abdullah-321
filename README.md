@@ -87,7 +87,3 @@ I enjoy solving complex integration problems and building systems that connect s
 # 📈 GitHub Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Md-Abdullah-321&theme=github-dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Md-Abdullah-321&icon=0&color=0)](https://visitcount.itsvg.in)
