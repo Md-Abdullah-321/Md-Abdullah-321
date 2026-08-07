@@ -1,89 +1,137 @@
-![Banner](https://github.com/Md-Abdullah-321/Md-Abdullah-321/assets/81377690/2787ab42-6a52-4055-b4db-5aed0dcedf38)
-
 # Hi, I'm Md Abdullah 👋
 
-Full Stack Developer focused on building scalable applications, automation systems, and API-driven platforms.
+## 🚀 Automation & Integration Engineer
 
-I design clean architectures, integrate external services, automate workflows, and deliver reliable web applications from backend infrastructure to frontend user experience.
+I build automation systems, CRM solutions, AI-powered workflows, and custom software that help businesses eliminate repetitive work and scale efficiently.
 
-I enjoy solving complex integration problems and building systems that connect software, data, and workflows.
+My expertise combines **GoHighLevel**, **n8n**, **REST APIs**, **AI**, and **full stack development** to create reliable systems that connect people, software, and data.
 
-🚀 Always learning and continuously improving how software systems are designed and automated.
+Whether it's building custom integrations, designing backend architecture, automating business processes, or developing internal applications, I focus on delivering solutions that are scalable, maintainable, and built for real business needs.
+
+> *"I don't just automate tasks. I build systems that help businesses grow."*
 
 ---
 
 # 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Md-Abdullah/100086184884085/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-1907b8173/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Md-Abdullah-321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-md-abdullah/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.dev.it@gmail.com)
+[![YouTube](https://img.shields.io/badge/Work_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=avMXDXwstEE)
 
 ---
 
 # 🧠 Core Expertise
 
-• Full Stack Web Application Development  
-• Backend System Architecture  
-• REST API Design & Development  
-• Third-Party API Integrations  
-• Workflow Automation & Business Logic Systems  
-• CRM & Platform Integrations  
-• AI-Assisted Workflows and Automation  
-• Database Design & Data Modeling  
-• Scalable Application Architecture  
+- 🤖 AI Automation
+- ⚡ Workflow Automation
+- 🏢 GoHighLevel CRM Development
+- 🔗 Custom API Development & Integrations
+- 🌐 REST APIs & Webhooks
+- 🔄 n8n Workflow Automation
+- 💬 CRM & Marketing Automation
+- 🖥️ Full Stack Web Development
+- 🏗️ Backend System Architecture
+- 🗄️ Database Design & Data Modeling
+- 📊 Internal Dashboards & Business Tools
+- 🚀 Performance & Scalability
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🤖 Automation & CRM
 
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0052CC?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D5DF6?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-# ⚙️ Development Focus
+### ⚙️ Backend
 
-• API-first system architecture  
-• Integration-heavy platforms  
-• Automation-driven workflows  
-• Scalable backend services  
-• Clean maintainable codebases  
-• Performance-optimized applications  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### ☁️ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge)
+
+---
+
+# ⚙️ What I Build
+
+- 🏢 GoHighLevel CRM Systems
+- 🤖 AI Agents & AI Automation
+- 🔄 n8n Workflow Automation
+- 🔗 Custom API Integrations
+- 🌐 REST APIs & Webhooks
+- 📊 Internal Dashboards
+- 👥 Client Portals
+- 💳 Payment Gateway Integrations
+- 📈 Marketing & Sales Automation
+- 📨 Email, SMS & WhatsApp Automation
+- ⚡ Business Process Automation
+- 💻 Full Stack Web Applications
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Md-Abdullah-321&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=md-abdullah-321&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Abdullah-321&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=md-abdullah-321&theme=github-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abdullah-321&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-abdullah-321&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
 # 📈 GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Md-Abdullah-321&theme=github-dark)
+[![Md Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=md-abdullah-321&theme=github-compact)](https://github.com/md-abdullah-321)
+
+---
+
+### 💡 Current Focus
+
+- Building AI-powered business automation
+- Advanced GoHighLevel CRM solutions
+- n8n workflow automation
+- Custom API integrations
+- Scalable backend systems
+- Learning AWS & DevOps
+
+---
+
+⭐ **Thanks for visiting my profile! If you're looking for someone who can automate workflows, integrate systems, and build reliable software, let's connect.**
